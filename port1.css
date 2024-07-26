@@ -1,0 +1,134 @@
+div a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    display:inline-block;
+  }
+  
+  a:hover {background-color: rgb(160, 212, 230);}
+  .do{
+    overflow: hidden;
+    text-decoration: none;
+    list-style-type: none;
+    
+    padding-left: 1100px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+li a {
+    display:grid;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    float: left;
+    color: darkblue;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.first
+{
+    float: left;
+    color: darkblue;
+    
+    overflow: hidden;
+    text-decoration: none;
+    list-style-type: none;
+    background-color: lightblue;
+
+}
+.firstyy
+{
+    text-align: center;
+    display:grid;
+    padding-left: 15px;
+    padding-right: 42px;
+    padding-top: 15px;
+    float: left;
+    color: darkblue;
+    text-decoration: none;
+    vertical-align: middle;
+    background-color: lightblue;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.avatar{
+ 
+    display: flex;
+    gap:500px;
+}
+.largebutton
+{
+    font-size: 12px;
+    padding: 20px ;
+    padding-left: 1px;
+    padding-right: 1px;
+    width: 100px;
+    margin-left: 150px;
+    background-color: darkblue;
+    color: white;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button-container {
+    display: flex;
+    align-items: center; 
+}
+
+.sizeofimage{
+    width:50px;
+    height:50px;
+}
+.first1
+{
+    display: flex;
+    list-style-type: none;
+    /* gap:300px; */
+}
+.firstyy1
+{
+    text-align: center;
+    
+    
+    text-decoration: none;
+   
+}
+.first11
+{
+    display: flex;
+    list-style-type: none;
+    gap:15px;
+}
+.firstyy11
+{
+    text-align: left;
+    padding-left: 1px;
+    
+   
+   
+}
+.first2
+{
+    display: flex;
+    list-style-type: none;
+    
+
+}
+.firstyy2
+{
+    text-align: left;
+    
+    text-decoration: none;
+    
+}
+td{
+    padding-left: 150px;
+    padding-top: 25px;
+   
+    color: white;
+}
+.td1{
+    padding-left: 10px;
+}
